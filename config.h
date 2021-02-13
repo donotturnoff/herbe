@@ -5,7 +5,7 @@ static const char *font_pattern = "Terminus:size=10:antialias=false:autohint=tru
 static const unsigned line_spacing = 5;
 static const unsigned int padding = 15;
 
-static const unsigned int width = 190;
+static const unsigned int width = 210;
 static const unsigned int border_size = 1;
 static const unsigned int pos_x = 20;
 static const unsigned int pos_y = 38;
